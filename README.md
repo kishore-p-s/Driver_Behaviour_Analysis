@@ -30,8 +30,8 @@ In conclusion, your project's success hinges on the precision and reliability of
     <img src="https://github.com/kishore-p-s/Driver_Behaviour_Analysis/assets/154609699/cd70b4f8-82d7-4f15-ae29-9eea1f315922" alt="Image 2" style="width: 30%; margin: 5px;">
     <img src="https://github.com/kishore-p-s/Driver_Behaviour_Analysis/assets/154609699/85c07a2d-037f-4124-9e10-2f3ebe1b9768" alt="Image 3" style="width: 30%; margin: 5px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-       <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/kishore-p-s/Driver_Behaviour_Analysis/assets/154609699/ed7cd2a8-2977-4b04-8115-475b58968ed1" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/kishore-p-s/Driver_Behaviour_Analysis/assets/154609699/557568e8-347a-4eff-b98a-d425f1b89056" alt="Image 2" style="width: 30%; margin: 5px;">
 </div>
 
 ## Problem statement 
