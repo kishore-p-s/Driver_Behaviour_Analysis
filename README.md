@@ -1,4 +1,4 @@
-<h1 align="center" style="border-bottom: none">
+![image](https://github.com/kishore-p-s/Driver_Behaviour_Analysis/assets/154609699/3b7d0262-efb5-48bb-84b7-b52fa7ea683f)<h1 align="center" style="border-bottom: none">
     <b>
         <a href="https://github.com/kishore-p-s/Driver_Behaviour_Analysis.git"> Driver behaviour analysis </a><br>
     </b>
@@ -29,37 +29,49 @@ In conclusion, your project's success hinges on the precision and reliability of
     <img src="https://github.com/kishore-p-s/Driver_Behaviour_Analysis/assets/154609699/d27afcb5-4b21-4293-b9b8-296a8b3e78bd" alt="Image 1" style="width: 30%; margin: 5px;">
     <img src="https://github.com/kishore-p-s/Driver_Behaviour_Analysis/assets/154609699/cd70b4f8-82d7-4f15-ae29-9eea1f315922" alt="Image 2" style="width: 30%; margin: 5px;">
     <img src="https://github.com/kishore-p-s/Driver_Behaviour_Analysis/assets/154609699/85c07a2d-037f-4124-9e10-2f3ebe1b9768" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
     <img src="https://github.com/kishore-p-s/Driver_Behaviour_Analysis/assets/154609699/ed7cd2a8-2977-4b04-8115-475b58968ed1" alt="Image 1" style="width: 30%; margin: 5px;">
     <img src="https://github.com/kishore-p-s/Driver_Behaviour_Analysis/assets/154609699/557568e8-347a-4eff-b98a-d425f1b89056" alt="Image 2" style="width: 30%; margin: 5px;">
 </div>
 
 ## Problem statement 
-mention the problem , and mention the severity of the problem and why we need solution for that  , mention which gorup of people face that problem
+Develop a comprehensive system that leverages driving behavior analysis techniques, telematics data, machine learning algorithms, and big data analytics to assess driver performance for insurance purposes. The system will collect, analyze, and present relevant data through a user-friendly app interface, utilizing specific parameters such as speed, acceleration, braking, indicators, and cornering to evaluate safe and responsible driving behaviors. The ultimate goal is to enhance road safety, reduce accidents, and facilitate insurance claim processing based on driving analysis while enabling drivers to monitor and improve their driving habits.
+
 ## About the project
-mention few details and features of the project , how it is solving the problem 
+1. Prototype: 
+A user-friendly application for assessing driver performance and supporting insurance claims.
+
+2. Key Features:
+Data Collection: Utilizes in-vehicle sensors, ultrasonic, IR sensor and four parameters for accurate data collection.
+Machine Learning Algorithms: Analyzes driving behavior to provide insights and feedback.
+Real-time Monitoring: Enables drivers to monitor and improve their driving habits.
+
+
 
 ## Technical implemntaion 
-mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
-- use bullets to explain
-- be consise and specific
-- explain with images and flowcharts
-- 
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+1.  Raspberry Pi Model 4
+Acts as the edge device for data collection.
+
+2.  Firebase   
+Realtime Database: Stores and retrieves data in real-time.   
+Authentication: Ensures secure user access.
+
+3.  Flutter App   
+ Developed using the Flutter framework.  
+ User-friendly interface for seamless interaction.
+
+4.  Data Analytics
+ Embedded analytics module within the Flutter app.  
+ Provides insightful data analysis
+![image](https://github.com/kishore-p-s/Driver_Behaviour_Analysis/assets/154609699/e28e7e32-9e56-4538-9a4f-8ef313391097)
+
+
 
 ## Techstacks used 
-`nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
+Raspberry pi4, firebase, flutter, Postgre SQL
 
-## How to run locally 
-explain detailed steps to run your project locally , example to run a react application 
-- step 1 : clone the repo 
-```
-npm install
-npm start
-```
 
 # What's next ?
-tell the future plan that you have for the project , tell the updates that you would wish to bring
+To implement the same in the real-time with real efficient sensors and analysie the driver behaviour 
 
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
